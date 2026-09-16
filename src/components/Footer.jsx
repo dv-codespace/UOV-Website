@@ -71,9 +71,9 @@ function Footer() {
 
           </div>
 
-          <div>
-              <img src="dv-logo.png" alt="DV Logo" className="mt-6 w-32" />
-              <p>&nbsp;Created by DV Techs</p>
+          <div className="flex">
+            <p className="mt-4">Created by&nbsp;</p>
+            <img src="dot-logo.png" alt="DOT Logo" className="mt-1 w-12" />
           </div>
 
         </div>
